@@ -1,0 +1,34 @@
+0. Revision Class
+
+1. Type Casting/Conversion
+	a. Implicit (Automatic)
+	b. Explicit (Manual)
+
+"10" => 10
+String => Number
+
+1. Number()  Class (PacalCase)
+2. parseFloat()  function (camleCase)
+3. parseInt()   function (camleCase)
+Float = Decimal
+
+
+
+
+
+	10  => "10"
+     Number => String
+
+
+The Process of conversion one data to another data type is called type casting/conversion
+
+2. Conditional Statement
+	2.1 If else
+	2.2 Ternary Operator
+		C ? T: F;
+		
+==  Comparision Opeator
+!=  Not equal to
+
+
+3. Loops Statements
